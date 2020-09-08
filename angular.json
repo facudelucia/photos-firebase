@@ -117,8 +117,13 @@
               "devServerTarget": "pic-firebase:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "pic-firebase"
 }

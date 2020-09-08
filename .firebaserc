@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "pic-firebase": {
+      "hosting": {
+        "pic-firebase": [
+          "pic-firebase"
+        ]
+      }
+    }
+  }
+}
